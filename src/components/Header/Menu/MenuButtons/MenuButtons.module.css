@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.cart {
+    padding: 0 3px;
+}
+.search {
+    padding: 0 3px;
+}
